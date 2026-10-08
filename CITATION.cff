@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+title: "Mitraseeds: seed character matrix and analysis pipeline for South American Mitracarpus"
+message: "If you use this dataset or code, please cite the paper below."
+type: software
+license: CC-BY-4.0
+authors:
+  - family-names: "Souza"
+    given-names: "Elnatan Bezerra de"
+    affiliation: "Universidade Estadual Vale do Acaraú (UVA), Sobral, Ceará, Brazil"
+  - family-names: "Portela"
+    given-names: "Luís Henrique Ximenes"
+    affiliation: "Escola Nacional de Botânica Tropical, Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, Rio de Janeiro, Brazil"
+  - family-names: "Nuñez-Florentín"
+    given-names: "Mariela"
+    affiliation: "Instituto de Botánica del Nordeste (IBONE, CONICET-UNNE), Corrientes, Argentina"
+  - family-names: "Nepomuceno"
+    given-names: "Álvaro"
+    affiliation: "Universidade Estadual de Feira de Santana, Feira de Santana, Bahia, Brazil"
+  - family-names: "Santos"
+    given-names: "Francisco de Assis Ribeiro dos"
+    affiliation: "Universidade Estadual de Feira de Santana, Feira de Santana, Bahia, Brazil"
+  - family-names: "Zappi"
+    given-names: "Daniela Cristina"
+    affiliation: "Universidade Federal do Recôncavo da Bahia, Cruz das Almas, Bahia, Brazil"
+keywords:
+  - Mitracarpus
+  - Rubiaceae
+  - Spermacoceae
+  - seed micromorphology
+  - phenetics
+  - plant taxonomy
+repository-code: "https://github.com/luisxportela/Mitraseeds"
+preferred-citation:
+  type: article
+  title: "Seed micromorphology diagnoses species but does not support infrageneric groups in South American Mitracarpus (Spermacoceae, Rubiaceae)"
+  journal: "Plant Ecology and Evolution"
+  authors:
+    - family-names: "Souza"
+      given-names: "Elnatan Bezerra de"
+    - family-names: "Portela"
+      given-names: "Luís Henrique Ximenes"
+    - family-names: "Nuñez-Florentín"
+      given-names: "Mariela"
+    - family-names: "Nepomuceno"
+      given-names: "Álvaro"
+    - family-names: "Santos"
+      given-names: "Francisco de Assis Ribeiro dos"
+    - family-names: "Zappi"
+      given-names: "Daniela Cristina"
