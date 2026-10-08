@@ -1,4 +1,5 @@
 # Mitraseeds
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23245550.svg)](https://doi.org/10.5281/zenodo.23245550)
 
 Data and analysis code for:
 
