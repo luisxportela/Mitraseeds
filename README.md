@@ -2,7 +2,7 @@
 
 Data and analysis code for:
 
-> Portela LHX, Souza EB, Nuñez-Florentín M, Nepomuceno A, Santos FAR, Zappi DC.
+> Souza EB, Portela LHX, Nuñez-Florentín M, Nepomuceno A, Santos FAR, Zappi DC.
 > *Seed micromorphology diagnoses species but does not support infrageneric groups in South American* Mitracarpus *(Spermacoceae, Rubiaceae).*
 > Submitted to **Plant Ecology and Evolution**.
 
